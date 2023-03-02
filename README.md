@@ -56,8 +56,10 @@ allure generate allure-results --clean -o allure-report
 allure serve allure-results
  ```
 **Here is the Allure report overview:**
-![Screenshot 2023-03-02 034215](https://user-images.githubusercontent.com/58912515/222275924-b2d35870-dd7c-41e5-89a9-0bdb412d07ee.png)
-![Screenshot 2023-03-02 034237](https://user-images.githubusercontent.com/58912515/222275945-f06699c8-d5d7-4e6c-b051-cb3787324680.png)
+![Screenshot 2023-03-02 230727](https://user-images.githubusercontent.com/58912515/222501686-21cae416-a6b7-42ae-b611-30cafdb8c451.png)
+![Screenshot 2023-03-02 231125](https://user-images.githubusercontent.com/58912515/222501866-7fa1f8ce-f001-4035-bace-a3f11ac123aa.png)
+
+
 
 
 
