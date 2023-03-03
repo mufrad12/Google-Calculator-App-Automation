@@ -59,6 +59,9 @@ allure serve allure-results
 ![Screenshot 2023-03-02 230727](https://user-images.githubusercontent.com/58912515/222501686-21cae416-a6b7-42ae-b611-30cafdb8c451.png)
 ![Screenshot 2023-03-02 231125](https://user-images.githubusercontent.com/58912515/222501866-7fa1f8ce-f001-4035-bace-a3f11ac123aa.png)
 
+### Automation Video Output:
+
+https://user-images.githubusercontent.com/58912515/222796381-66fea734-c801-4eb7-9d62-a3bebb6400b4.mp4
 
 
 
